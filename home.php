@@ -21,18 +21,18 @@
                     <div class="d-flex align-items-center row">
                       <div class="col-sm-7">
                         <div class="text-center">
-                         <img src="<?=$url;?>/assets/img/logo.png" width="95%" class="mb-0 animated-img">
+                         <img src="./assets/img/logo.png" width="95%" class="mb-0 animated-img">
                          <cite> <smal class="text-light fw-semibold pt-0 p-3">Seorang pengembang web yang masih terus belajar dan berkembang. Berusaha untuk selalu memberikan yang terbaik dalam setiap proyek yang dikerjakan.</smal></cite>
                         </div>
                       </div>
                       <div class="col-sm-5 text-center text-sm-left">
                         <div class="card-body px-md-4">
-                          <!-- <img src="<?=$url;?>/assets/img/pg.jpg" height="220" alt="BangIman" data-app-dark-img="<?=$url;?>/assets/img/pg.jpg" data-app-light-img="<?=$url;?>/assets/img/pg.jpg"> -->
-                          <h5 class="card-header m-0 me-2 pb-3" style="line-height: 1.5;">  <img src="<?=$url;?>/assets/img/imanudin3.png" alt="" width="80%" class="animated-img rounded-circle mb-2"> 
+                          <!-- <img src="./assets/img/pg.jpg" height="220" alt="BangIman" data-app-dark-img="./assets/img/pg.jpg" data-app-light-img="./assets/img/pg.jpg"> -->
+                          <h5 class="card-header m-0 me-2 pb-3" style="line-height: 1.5;">  <img src="./assets/img/imanudin3.png" alt="" width="80%" class="animated-img rounded-circle mb-2"> 
                           <p class="card-text"><div class="btn-group" role="group" aria-label="Basic example">
-                              <button type="button" class="btn btn-primary"><i class='bx bxl-facebook'></i></button>
+                              <a href="//facebook.com/imanudin.it" class="btn btn-primary"><i class='bx bxl-facebook'></i></a>
                               <button type="button" class="btn btn-secondary"><i class='bx bxl-github' ></i></button>
-                              <button type="button" class="btn btn-success"><i class='bx bxl-whatsapp' ></i> 082350730631</button>
+                              <a href="https://api.whatsapp.com/send?phone=082350730631"  class="btn btn-success"><i class='bx bxl-whatsapp' ></i> 082350730631</a>
                             </div> </p>
                         </h5>
                         </div>
