@@ -27,7 +27,7 @@
                       </div>
                       <div class="col-sm-5 text-center text-sm-left">
                         <div class="card-body px-md-4">
-                          <!-- <img src="./assets/img/pg.jpg" height="220" alt="BangIman" data-app-dark-img="./assets/img/pg.jpg" data-app-light-img="./assets/img/pg.jpg"> -->
+                          
                           <h5 class="card-header m-0 me-2 pb-3" style="line-height: 1.5;">  <img src="./assets/img/imanudin3.png" alt="" width="80%" class="animated-img rounded-circle mb-2"> 
                           <p class="card-text"><div class="btn-group" role="group" aria-label="Basic example">
                               <a href="//facebook.com/imanudin.it" class="btn btn-primary"><i class='bx bxl-facebook'></i></a>
