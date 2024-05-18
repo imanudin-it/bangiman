@@ -1,0 +1,40 @@
+{
+    "portfolio": [
+      {
+        "title": "SETTELJAM - Sistem Tanda Tangan Elektronik Jasa Pelayanan Medis - eSignature",
+        "image": "./portofolios/setteljam.jpg",
+        "description": "Mudahnya melengkapi Laporan Keuangan dengan SETTELJAM untuk laporan penerimaan jasa pelayanan medis",
+        "tag": ["Web Application", "PHP", "MySQL"],
+        "url": "./portofolios/?view=setteljam.jpg"
+      },
+      {
+        "title": "Website Informasi Rumah Sakit Umum Daerah Sambas",
+        "image": "./portofolios/website-laravel-23.png",
+        "description": "Website dengan tampilan yang responsif dan ramah pengguna, memastikan akses mudah dari berbagai perangkat, termasuk ponsel dan tablet.",
+        "tag": ["Web Development", "Laravel", "PHP", "MySQL"],
+        "url": "./portofolios/?view=website-laravel-23.png"
+      },
+      {
+        "title": "Pendaftaran Online Rawat Jalan via WhatsApp Auto-Reply",
+        "image": "./portofolios/pendaftaran-wa-rsud.jpg",
+        "description": "Inovasi layanan digital Pendaftaran Online via WhatsApp Autoreply untuk Rawat Jalan. ",
+        "tag": ["Web Application", "PHP", "MySQL"],
+        "url": "./portofolios/?view=pendaftaran-wa-rsud.jpg"
+      },
+      {
+        "title": "Gateaway VClaim BPJS Kesehatan dan SIMRS Rumah Sakit",
+        "image": "./portofolios/bridging-vclaim-bpjs.jpg",
+        "description": "Aplikasi bridging vclaim BPJS Kesehatan untuk keperluan pelayanan pasien BPJS Kesehatan di Rumah Sakit.",
+        "tag": ["Web Application", "Laravel", "PHP", "MySQL"],
+        "url": "./portofolios/?view=bridging-vclaim-bpjs.jpg"
+      },
+      {
+        "title": "Website Pendaftaran Online Rawat Jalan RSUD Sambas (Tersedia di PlayStore)",
+        "image": "./portofolios/pendaftaran-via-web.png",
+        "description": "Pendaftaran melalui online merupakan pilihan yang tepat untuk mengurangi antrian onsite dan membantu pelayanan pendaftaran menjadi lebih efektif dan efisien",
+        "tag": ["Web Application", "PHP", "MySQL"],
+        "url": "./portofolios/?view=pendaftaran-via-web.png"
+      }
+    ]
+  }
+  

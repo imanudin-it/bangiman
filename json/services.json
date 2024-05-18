@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "icon": "bx bx-code-block",
+      "title": "Pengembang Web",
+      "description": "Membuat situs web yang responsif dan interaktif menggunakan teknologi terbaru."
+    },
+    {
+      "icon": "bx bx-laptop",
+      "title": "Pengembangan Aplikasi",
+      "description": "Mengembangkan aplikasi lintas platform yang disesuaikan dengan kebutuhan bisnis Anda."
+    },
+    {
+      "icon": "bx bx-customize",
+      "title": "Kustom Website dan Aplikasi",
+      "description": "Membangun aplikasi web kustom dengan arsitektur yang skalabel dan kuat."
+    }
+  ]
+}
